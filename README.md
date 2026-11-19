@@ -32,6 +32,7 @@ This is a curated list of tools for rewriting text, checking grammar, adjusting 
 - [Outwrite](https://www.outwrite.com) - An AI writing assistant that checks spelling, grammar, and punctuation, and can help improve style and structure.
 - [PerfectIt](https://www.perfectit.com) - Proofreading software that finds consistency issues such as spelling variants, capitalization, and hyphenation.
 - [ProWritingAid](https://prowritingaid.com) - A grammar and style editor with detailed reports for long documents, including fiction.
+- [Revise AI](https://www.revise.net/) - An AI writing editor that shows grammar, clarity, and style suggestions as tracked changes you accept or reject.
 - [Sapling](https://sapling.ai) - A language toolkit for teams, with grammar and spelling checks, autocomplete, paraphrasing, and AI detection.
 - [Scribens](https://www.scribens.com) - A free grammar and spelling checker with extensions for browsers and common writing apps.
 - [Trinka](https://www.trinka.ai) - An AI writing and grammar checker used for academic and professional documents.
